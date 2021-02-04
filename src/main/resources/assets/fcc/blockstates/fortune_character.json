@@ -1,0 +1,39 @@
+{
+  "forge_marker": 1,
+  "defaults": {"model": "minecraft:builtin/generated"},
+  "variants": {
+    "variant": {
+      "empty": {
+        "textures": {
+          "layer0": "fcc:items/fcs/empty"
+        }
+      },
+      "harmony": {
+        "textures": {
+          "layer0": "fcc:items/fcs/harmony"
+        }
+      },
+      "prosperity": {
+        "textures": {
+          "layer0": "fcc:items/fcs/prosperity"
+        }
+      },
+      "friendship": {
+        "textures": {
+          "layer0": "fcc:items/fcs/friendship"
+        }
+      },
+      "patriotism": {
+        "textures": {
+          "layer0": "fcc:items/fcs/patriotism"
+        }
+      },
+      "dedication": {
+        "textures": {
+          "layer0": "fcc:items/fcs/dedication"
+        }
+      }
+    },
+    "inventory": [{"transform":  "forge:default-item"}]
+  }
+}

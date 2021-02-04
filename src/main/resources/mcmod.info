@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fcc",
+  "name": "Fortune Character Collection",
+  "description": "Happy Chinese New Year!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frank142857"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

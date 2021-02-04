@@ -1,0 +1,8 @@
+item.fortune_character_empty.name=红纸
+item.fortune_character_harmony.name=和谐福
+item.fortune_character_prosperity.name=富强福
+item.fortune_character_friendship.name=友善福
+item.fortune_character_patriotism.name=爱国福
+item.fortune_character_dedication.name=敬业福
+
+itemGroup.fcc=集五福

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RPR",
+    "PBP",
+    "RPR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "B": {
+      "item": "minecraft:dye",
+      "data": 0
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "fcc:fortune_character",
+    "data": 0,
+    "count": 4
+  }
+}
