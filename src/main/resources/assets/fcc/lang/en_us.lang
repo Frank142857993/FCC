@@ -4,5 +4,8 @@ item.fortune_character_prosperity.name=Fortune of Prosperity
 item.fortune_character_friendship.name=Fortune of Friendship
 item.fortune_character_patriotism.name=Fortune of Patriotism
 item.fortune_character_dedication.name=Fortune of Dedication
+item.fortune_gainer.name=Fortune Gainer
 
 itemGroup.fcc=Fortune Character Collection
+
+enchantment.alipay_scanner=Alipay Scanner
