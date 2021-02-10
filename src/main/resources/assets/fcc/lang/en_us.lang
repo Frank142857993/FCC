@@ -4,8 +4,11 @@ item.fortune_character_prosperity.name=Fortune of Prosperity
 item.fortune_character_friendship.name=Fortune of Friendship
 item.fortune_character_patriotism.name=Fortune of Patriotism
 item.fortune_character_dedication.name=Fortune of Dedication
-item.fortune_gainer.name=Fortune Gainer
+item.envelope.name=Envelope of Fortune
 
 itemGroup.fcc=Fortune Character Collection
 
 enchantment.alipay_scanner=Alipay Scanner
+
+message.fcc.playerJoinWorld=§eWelcome to §r§4Fortune Character Collection§r§e Mod, §r%s§e!
+message.fcc.playerJoinWorld1=§eDig some blocks with specially enchanted tools, collect all 5 Fortune Characters and win a mysterious gift!

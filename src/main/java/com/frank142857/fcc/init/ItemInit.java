@@ -10,5 +10,5 @@ public class ItemInit {
     public static final List<Item> REGISTER_ITEMS = new ArrayList<Item>();
 
     public static final ItemFortuneCharacter ITEM_FORTUNE_CHARACTER = new ItemFortuneCharacter();
-    public static final ItemFortuneGainer ITEM_FORTUNE_GAINER = new ItemFortuneGainer();
+    public static final ItemEnvelope ITEM_ENVELOPE = new ItemEnvelope();
 }

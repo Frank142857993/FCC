@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "defaults": {
     "model": "minecraft:builtin/generated",
-    "textures": {"layer0": "fcc:items/fcs/gainer"}
+    "textures": {"layer0": "fcc:items/envelope"}
   },
   "variants": {
     "inventory": [{"transform":  "forge:default-item"}]

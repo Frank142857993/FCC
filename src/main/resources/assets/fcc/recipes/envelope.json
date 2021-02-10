@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fcc:fortune_character",
+      "data": 1
+    },
+    {
+      "item": "fcc:fortune_character",
+      "data": 2
+    },
+    {
+      "item": "fcc:fortune_character",
+      "data": 3
+    },
+    {
+      "item": "fcc:fortune_character",
+      "data": 4
+    },
+    {
+      "item": "fcc:fortune_character",
+      "data": 5
+    }
+  ],
+
+  "result": {
+    "item": "fcc:envelope",
+    "count": 1
+  }
+}

@@ -4,8 +4,11 @@ item.fortune_character_prosperity.name=富强福
 item.fortune_character_friendship.name=友善福
 item.fortune_character_patriotism.name=爱国福
 item.fortune_character_dedication.name=敬业福
-item.fortune_gainer.name=沾福气
+item.envelope.name=五福到
 
 itemGroup.fcc=集五福
 
 enchantment.alipay_scanner=支付宝扫一扫
+
+message.fcc.playerJoinWorld=§e欢迎游玩§r§4集五福§r§e模组!
+message.fcc.playerJoinWorld1=§e用带有特别附魔的工具挖一些方块以集齐全部5张福卡。试试手气吧!
